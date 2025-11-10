@@ -1,0 +1,26 @@
+{
+  "name": "ola-primeiro-contrato",
+  "version": "0.1.0",
+  "description": "Contrato didático Solidity 101 - OlaPrimeiroContrato",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "lint": "eslint . || true"
+  },
+  "keywords": [
+    "solidity",
+    "hardhat",
+    "ethers",
+    "tutorial"
+  ],
+  "author": "Saulo Roberto De Souza Pereira | Blockchain Solutions Architect",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "chai": "^4.5.0",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.17.0"
+  }
+}

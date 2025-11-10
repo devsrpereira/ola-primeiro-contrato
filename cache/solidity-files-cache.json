@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\jcesa\\Documents\\Blockchain Solutions Architect\\Solidty 101\\ola-primeiro-contrato\\ola-primeiro-contrato\\contracts\\OlaPrimeiroContrato.sol": {
+      "lastModificationDate": 1762735495521,
+      "contentHash": "4c5bf15078a18830162b7267c90ef32a",
+      "sourceName": "contracts/OlaPrimeiroContrato.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "OlaPrimeiroContrato"
+      ]
+    }
+  }
+}
