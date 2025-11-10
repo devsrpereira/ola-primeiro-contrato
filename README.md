@@ -60,7 +60,7 @@ Para deploy em testnet, configure GOERLI_RPC_URL e PRIVATE_KEY em hardhat.config
 
 ---
 
-##Próximos passos / melhorias sugeridas
+## Próximos passos / melhorias sugeridas
 - Adicionar verificação de limite máximo/minimo para numero.
 - Implementar pausabilidade (pausable).
 - Adicionar script para deploy automático em testnet via .env.
@@ -68,5 +68,5 @@ Para deploy em testnet, configure GOERLI_RPC_URL e PRIVATE_KEY em hardhat.config
 
 ---
 
-##Licença
+## Licença
 - MIT
